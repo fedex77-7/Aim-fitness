@@ -1,0 +1,2 @@
+import{initializeApp}from"https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";import{getFirestore}from"https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
+const firebaseConfig={apiKey:"AIzaSyCl2x31xce9IQERnNHaNs7VHuUUrQx0HH8",authDomain:"aimfitness-ef7fe.firebaseapp.com",projectId:"aimfitness-ef7fe",storageBucket:"aimfitness-ef7fe.firebasestorage.app",messagingSenderId:"1029580716765",appId:"1:1029580716765:web:f013243d80c1db409df934",measurementId:"G-ZB2RKJSQK8"};initializeApp(firebaseConfig);export const db=getFirestore();

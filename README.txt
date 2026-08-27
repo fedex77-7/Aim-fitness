@@ -1,0 +1,1 @@
+AIM Fitness complete website. Replace assets/gym-01.jpg ... gym-10.jpg with your photos. Open /admin/ for CMS. Firebase Authentication and Storage are not used.
